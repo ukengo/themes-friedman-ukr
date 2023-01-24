@@ -244,7 +244,7 @@ add_action('admin_menu', 'remove_menus');
 
 //function my_acf_google_map_api( $api ){
 //
-//    $api['key'] = 'IzaSyCAiXyBq0gGlBaj1zM3Nyb75v-jJ3g3i-0';
+//    $api['key'] = '';
 //
 //    return $api;
 //
@@ -254,7 +254,7 @@ add_action('admin_menu', 'remove_menus');
 
 //function my_acf_init() {
 //
-//    acf_update_setting('google_api_key', 'AIzaSyBvW5wdstfGS9kLXJz4ZsyCj1Qr51_czMs');
+//    acf_update_setting('google_api_key', '');
 //}
 //
 //add_action('acf/init', 'my_acf_init');
