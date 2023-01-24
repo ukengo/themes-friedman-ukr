@@ -1,0 +1,8 @@
+{
+    "name": "dl/friedman",
+    "description": "Company Website",
+    "minimum-stability": "dev",
+    "require": {
+        "shadz3rg/php-stamp": "dev-master"
+    }
+}
