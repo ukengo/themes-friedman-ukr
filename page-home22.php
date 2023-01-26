@@ -121,7 +121,7 @@ jQuery(document).ready(function($) {
                                 endif;
                                 ?>
 
-                                <a href="<?php echo $current_link; ?>"> Читать дальше</a></span>
+                                <a href="<?php echo $current_link; ?>"><?php pll_e('Читать дальше'); ?></a></span>
                         </span>
                         </li>
 
