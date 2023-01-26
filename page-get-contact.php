@@ -280,7 +280,7 @@ $file_2 = get_attached_file($doc_path2['ID']);
                         <input type="text" name="svidet_nds" value="<?php if($ph['svidet_nds']): echo $ph['svidet_nds']; endif;?>" />
                     </li>
                     <li>
-                        <input type="submit" value="Оформить договор"/>
+                        <input type="submit" value="<?php pll_e('Оформить договор'); ?>"/>
                     </li>
                 </ul>
             </form>
